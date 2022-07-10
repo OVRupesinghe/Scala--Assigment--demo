@@ -1,4 +1,5 @@
 package Assignment
+import scala.io.StdIn.readInt;
 
 object Question4a extends App{
   def wage(hours:Int):Int = hours*250 ;
